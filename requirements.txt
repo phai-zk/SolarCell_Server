@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+matplotlib
+numpy
+pandas
+scikit-learn
+gspread
+oauth2client
